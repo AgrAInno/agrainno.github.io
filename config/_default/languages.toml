@@ -11,6 +11,7 @@ languageName = "Français"
 languageCode = "fr-FR"
 contentDir = "content/french"
 weight = 2
+disabled = true
 
 ################ Italian language #################
 [it]
@@ -18,6 +19,7 @@ languageName = "Italiano"
 languageCode = "it-IT"
 contentDir = "content/italian"
 weight = 3
+disabled = true
 
 ################ German language ##################
 [de]
@@ -25,3 +27,4 @@ languageName = "German"
 languageCode = "de-at"
 contentDir = "content/german"
 weight = 4
+disabled = true

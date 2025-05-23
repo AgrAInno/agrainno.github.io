@@ -1,5 +1,5 @@
 ---
-title: "Inno Handheld"
+title: "Inno Handheld 1"
 description: "Inno Nitrogen Concentration Sensor"
 draft: false
 image : "images/portfolio/work1.jpg"

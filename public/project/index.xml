@@ -8,14 +8,7 @@
     <language>en-US</language>
     <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI-Enhanced Satellite &amp; Sensor Integration</title>
-      <link>http://localhost:1313/project/product-6-srs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/product-6-srs/</guid>
-      <description>&lt;h2 id=&#34;integrated-satellite--inno-sensor-mapping&#34;&gt;Integrated Satellite &amp;amp; Inno Sensor Mapping&lt;/h2&gt;&#xA;&lt;p&gt;AgrAInno’s integrated service platform combines high-resolution satellite data with ground-truth measurements from Inno Handheld sensors. This dual-source approach enables accurate detection of crop nitrogen levels and early identification of water stress zones—empowering smarter nutrient and irrigation management.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Inno Handheld</title>
+      <title>Inno Handheld 1</title>
       <link>http://localhost:1313/project/product-1-hand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/product-1-hand/</guid>
@@ -34,6 +27,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/product-5-srs/</guid>
       <description>&lt;h2 id=&#34;satellite-based-crop-nutrition-monitoring&#34;&gt;Satellite-Based Crop Nutrition Monitoring&lt;/h2&gt;&#xA;&lt;p&gt;AgrAInno’s Satellite Data Service provides field-scale insights into crop health, nitrogen status, and stress levels through high-resolution multispectral imagery. Using Sentinel-2 data, our platform delivers timely, cloud-based diagnostics that help farmers and agronomists optimize input use and improve crop performance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The AI-Enhanced Satellite &amp; Sensor Integration</title>
+      <link>http://localhost:1313/project/product-6-srs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/product-6-srs/</guid>
+      <description>&lt;h2 id=&#34;integrated-satellite--inno-sensor-mapping&#34;&gt;Integrated Satellite &amp;amp; Inno Sensor Mapping&lt;/h2&gt;&#xA;&lt;p&gt;AgrAInno’s integrated service platform combines high-resolution satellite data with ground-truth measurements from Inno Handheld sensors. This dual-source approach enables accurate detection of crop nitrogen levels and early identification of water stress zones—empowering smarter nutrient and irrigation management.&lt;/p&gt;</description>
     </item>
     <item>
       <title>UAV Health Mapping</title>

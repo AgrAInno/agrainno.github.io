@@ -6,8 +6,15 @@
     <description>Recent content in Latest News on AgrAInno | Agricultural AI Innovation</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 10:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Advanced Weed Detection Model</title>
+      <link>http://localhost:1313/blog/weed-detection-model/</link>
+      <pubDate>Wed, 06 Nov 2024 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/blog/weed-detection-model/</guid>
+      <description>&lt;p&gt;Weeds significantly impact agricultural production, and traditional weed control methods often harm soil health and the environment. This study aims to develop deep learning-based segmentation models to identify weeds in potato fields captured by Unmanned Aerial Vehicle (UAV) orthophotos and to explore the effects of weeds on potato yield.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pretty-print dates</title>
       <link>http://localhost:1313/blog/date-i18n/</link>

@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: "Explore Our Technologies"
-    link: "product/"
+    link: "project/"
 
 ############################# About #################################
 about:
@@ -34,7 +34,7 @@ portfolio:
   button:
     enable: true
     label: "View Products"
-    link: "product/"
+    link: "project/"
 
 
 ############################# Service ############################
@@ -99,11 +99,7 @@ funfacts:
     designation: "Research Collaborator"
     content: "Working with AgrAInno has accelerated our innovation pipeline. Their commitment to scientific rigor and practical applications makes them a standout partner in agri-tech."
 
-  # team item loop
-  - name: "AgTech Partner"
-    image: "images/clients/avater-3.jpg"
-    designation: "Research Collaborator"
-    content: "Working with AgrAInno has accelerated our innovation pipeline. Their commitment to scientific rigor and practical applications makes them a standout partner in agri-tech."
+  # team member loop
 
   - name: "Chenghao Lu"
     image: "images/teams/avater-4.jpg"

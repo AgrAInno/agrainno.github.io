@@ -96,6 +96,17 @@ mission_vision:
   - name : "Approach"
     content : "We combine deep agricultural domain knowledge with advanced AI modeling, remote sensing, and cloud infrastructure. Our agile, interdisciplinary approach ensures scalable, user-friendly solutions tailored to the dynamic needs of modern farming."
 
+  - name : "Founding Team"
+    content: |
+      Kang Yu - CEO & Founder 
+
+      Chenghao Lu - COO & Co-Founder
+
+      Yihao Wang - CTO
+
+      Finn Kott - CMO
+
+
 
 ############################# call to action #################################
 cta:

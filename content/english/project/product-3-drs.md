@@ -5,6 +5,7 @@ draft: false
 image : "images/portfolio/work3.jpg"
 bg_image: "images/feature-bg.jpg"
 category: "Drone mapping"
+proj_specs_title: "Service Information"
 information:
   - label : "Product"
     info : "Drone surverying and mapping"

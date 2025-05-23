@@ -1,5 +1,5 @@
 ---
-title: "AI-Enhanced Satellite & Sensor Integration"
+title: "The AI-Enhanced Satellite & Sensor Integration"
 description: "Combining satellite imagery with Inno sensors for advanced crop stress and nitrogen diagnostics"
 draft: false
 image : "images/portfolio/work6.jpg"

@@ -27,7 +27,7 @@ Freising
 Germany
 """
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "© 2024 AgrAInno. All rights reserved. Built with Hugo and the Airspace theme by Themefisher."
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/

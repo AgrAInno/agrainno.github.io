@@ -83,7 +83,7 @@ funfacts:
   testimonial_slider:
   # testimonial item loop
   - name: "Dr. Li"
-    image: "images/clients/avater-1.jpg"
+    image: "images/team/avater.jpg"
     designation: "AgrAInno"
     role: "Co-founder & CTO"
     content: "At AgrAInno, we're passionate about harnessing AI and sensor technologies to address real-world agricultural challenges. Our solutions are rooted in science and designed for impact."

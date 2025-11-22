@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://agrainno.netlify.app/"
 title = "AgrAInno | Agricultural AI Innovation"
-theme = "airspace-hugo"
+theme = "airspace"
 
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "America/New_York"

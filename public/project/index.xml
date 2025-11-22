@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Products on AgrAInno | Agricultural AI Innovation</title>
-    <link>http://localhost:1313/project/</link>
+    <link>http://localhost:55654/project/</link>
     <description>Recent content in Our Products on AgrAInno | Agricultural AI Innovation</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55654/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inno Handheld 1</title>
-      <link>http://localhost:1313/project/product-1-hand/</link>
+      <link>http://localhost:55654/project/product-1-hand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/product-1-hand/</guid>
+      <guid>http://localhost:55654/project/product-1-hand/</guid>
       <description>&lt;h2 id=&#34;inno-handheld-smart-sensor-for-plant-nitrogen-monitoring&#34;&gt;Inno Handheld: Smart Sensor for Plant Nitrogen Monitoring&lt;/h2&gt;&#xA;&lt;p&gt;The Inno Handheld is a portable device designed for rapid, non-destructive assessment of leaf nitrogen concentration in crops. Developed by AgrAInno, this device combines advanced spectral sensing with a user-friendly design, enabling farmers and researchers to collect accurate nitrogen data in the field within seconds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Inno Handheld 2.0</title>
-      <link>http://localhost:1313/project/product-2-hand/</link>
+      <link>http://localhost:55654/project/product-2-hand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/product-2-hand/</guid>
+      <guid>http://localhost:55654/project/product-2-hand/</guid>
       <description>&lt;h2 id=&#34;inno-handheld-20-bluetooth-enabled-smart-sensor-for-plant-nutrition&#34;&gt;Inno Handheld 2.0: Bluetooth-Enabled Smart Sensor for Plant Nutrition&lt;/h2&gt;&#xA;&lt;p&gt;The Inno Handheld 2.0 is the next-generation portable sensor developed by AgrAInno for accurate, non-destructive nitrogen concentration measurement in crops. Equipped with Bluetooth connectivity, this device seamlessly pairs with mobile apps to provide real-time nitrogen data in the field.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Satellite Data Service</title>
-      <link>http://localhost:1313/project/product-5-srs/</link>
+      <link>http://localhost:55654/project/product-5-srs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/product-5-srs/</guid>
+      <guid>http://localhost:55654/project/product-5-srs/</guid>
       <description>&lt;h2 id=&#34;satellite-based-crop-nutrition-monitoring&#34;&gt;Satellite-Based Crop Nutrition Monitoring&lt;/h2&gt;&#xA;&lt;p&gt;AgrAInno’s Satellite Data Service provides field-scale insights into crop health, nitrogen status, and stress levels through high-resolution multispectral imagery. Using Sentinel-2 data, our platform delivers timely, cloud-based diagnostics that help farmers and agronomists optimize input use and improve crop performance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The AI-Enhanced Satellite &amp; Sensor Integration</title>
-      <link>http://localhost:1313/project/product-6-srs/</link>
+      <link>http://localhost:55654/project/product-6-srs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/product-6-srs/</guid>
+      <guid>http://localhost:55654/project/product-6-srs/</guid>
       <description>&lt;h2 id=&#34;integrated-satellite--inno-sensor-mapping&#34;&gt;Integrated Satellite &amp;amp; Inno Sensor Mapping&lt;/h2&gt;&#xA;&lt;p&gt;AgrAInno’s integrated service platform combines high-resolution satellite data with ground-truth measurements from Inno Handheld sensors. This dual-source approach enables accurate detection of crop nitrogen levels and early identification of water stress zones—empowering smarter nutrient and irrigation management.&lt;/p&gt;</description>
     </item>
     <item>
       <title>UAV Health Mapping</title>
-      <link>http://localhost:1313/project/product-4-drs/</link>
+      <link>http://localhost:55654/project/product-4-drs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/product-4-drs/</guid>
+      <guid>http://localhost:55654/project/product-4-drs/</guid>
       <description>&lt;h2 id=&#34;uav-based-crop-nutrition-and-stress-mapping&#34;&gt;UAV-Based Crop Nutrition and Stress Mapping&lt;/h2&gt;&#xA;&lt;p&gt;AgrAInno’s UAV Health Mapping service offers an advanced solution for monitoring crop nutrition and detecting stress at the field scale. Using drones equipped with multispectral sensors, we collect high-resolution imagery that is enhanced with super-resolution models to produce detailed vegetation indices and nutrient status maps.&lt;/p&gt;</description>
     </item>
     <item>
       <title>UAV Weed Mapping</title>
-      <link>http://localhost:1313/project/product-3-drs/</link>
+      <link>http://localhost:55654/project/product-3-drs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/product-3-drs/</guid>
+      <guid>http://localhost:55654/project/product-3-drs/</guid>
       <description>&lt;h2 id=&#34;uav-based-weed-detection-and-mapping&#34;&gt;UAV-Based Weed Detection and Mapping&lt;/h2&gt;&#xA;&lt;p&gt;AgrAInno provides cutting-edge drone-based weed mapping solutions to support precision weed management in agriculture. By integrating high-resolution RGB and multispectral imagery with advanced AI models, we generate detailed weed distribution maps that help optimize herbicide applications and improve crop productivity.&lt;/p&gt;</description>
     </item>
   </channel>

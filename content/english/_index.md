@@ -83,27 +83,31 @@ funfacts:
   testimonial_slider:
   # testimonial item loop
   - name: "Dr. Li"
-    image: "images/clients/avater.jpg"
-    designation: "CTO & Co-Founder, AgrAInno"
+    image: "images/clients/avater-1.jpg"
+    designation: "AgrAInno"
+    role: "Co-founder & CTO"
     content: "At AgrAInno, we're passionate about harnessing AI and sensor technologies to address real-world agricultural challenges. Our solutions are rooted in science and designed for impact."
 
   # testimonial item loop
   - name: "Dr. Yu"
-    image: "images/clients/avatar.jpg"
-    designation: "CSO & Founder, AgrAInno"
-    content: "We believe that technology should empower farmers, not complicate their work. AgrAInno’s tools are intuitive, effective, and built with agronomic insight."
+    image: "images/clients/avater-2.jpg"
+    designation: "AgrAInno"
+    role: "Founder & CSO"
+    content: "We believe that technology should empower farmers, not complicate their work. AgrAInno's tools are intuitive, effective, and built with agronomic insight."
 
   # testimonial item loop
   - name: "AgTech Partner"
-    image: "images/clients/avatar.jpg"
-    designation: "Research Collaborator"
+    image: "images/clients/avater-3.jpg"
+    designation: "Collaborator"
+    role: "Partner"
     content: "Working with AgrAInno has accelerated our innovation pipeline. Their commitment to scientific rigor and practical applications makes them a standout partner in agri-tech."
 
   # team member loop
 
   - name: "Chenghao Lu"
     image: "images/teams/chenghao.png"
-    designation: "COO & Co-founder, AgrAInno"
+    designation: "AgrAInno"
+    role: "COO & Co-founder"
     content: "With a strong focus on UAV application and field phenotyping, I ensure that AgrAInno’s solutions are practical and ready to make real impact in precision agriculture and breeding."
 
   - name: "Dong Bai"

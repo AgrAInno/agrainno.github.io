@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "aside",
+      "base",
       "body",
       "br",
       "button",
@@ -32,6 +33,7 @@
       "p",
       "script",
       "section",
+      "small",
       "span",
       "strong",
       "style",
@@ -249,16 +251,10 @@
     "ids": [
       "1-what-is-agrainno",
       "10-where-is-agrainno-located",
-      "1overview",
-      "2-data-we-collect",
       "2-what-products-does-agrainno-offer",
       "3-how-does-the-sns-l-sensor-work",
-      "3-how-we-use-data",
-      "4-how-we-disclose-data",
       "4-what-are-your-pricing-packages",
       "5-is-the-sns-l-sensor-ready-for-commercial-use",
-      "5-security",
-      "6-advertising",
       "6-where-can-i-download-the-agriweed-app",
       "7-who-is-behind-agrainno",
       "8-what-is-agrainnos-mission",
@@ -286,8 +282,7 @@
       "uav-based-weed-detection-and-mapping",
       "values",
       "vision",
-      "welcome-to-agrainno",
-      "welcome-to-airspace"
+      "welcome-to-agrainno"
     ]
   }
 }

@@ -11,42 +11,42 @@ pricing:
   pricing_table:
   # pricing table loop
   - name : "Basic"
-    price: "$99"
-    content : "Perfect for single freelancers who work by themselves"
+    price: "€1,999"
+    content : "Essential smart sensing for nitrogen and chlorophyll monitoring"
     link : "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - SNS-L sensor
+    - Nitrogen concentration measurement
+    - Chlorophyll concentration measurement
+    - Smartphone App
+    - Real-time field monitoring
+    - Basic technical support
 
   # pricing table loop
   - name : "Premium"
-    price: "$199"
-    content : "Suitable for small businesses with up to 5 employees"
+    price: "€2,499"
+    content : "Complete solution with satellite-based mapping capabilities"
     link : "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Everything in Basic
+    - Annual cloud-based license
+    - Satellite-based nitrogen mapping
+    - Satellite-based chlorophyll mapping
+    - Advanced data analytics
+    - Priority technical support
 
   # pricing table loop
   - name : "Advance"
-    price: "$299"
-    content : "Suitable for large businesses with unlimited employees"
+    price: "€2,999"
+    content : "Future-ready package with multi-nutrient prediction (in development)"
     link : "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Everything in Basic & Premium
+    - Annual multi-nutrient prediction license
+    - Extended nutrient analysis (in development)
+    - Advanced AI-powered insights
+    - Premium technical support
+    - Early access to new features
 
 ############################# call to action #################################
 cta:

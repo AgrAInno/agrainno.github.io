@@ -22,7 +22,7 @@ phone = ""
 email = "info@agrainno.com"
 location = """
 **AgrAInno**  
-Dürnast  
+Dürnast 7  
 Freising 
 Germany
 """
@@ -93,8 +93,8 @@ baidu = "" # Your verification code
 [gmap]
 enable = true
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "48.4025"
+map_longitude = "11.6922"
 map_marker = "images/marker.png"
 
 # cookies

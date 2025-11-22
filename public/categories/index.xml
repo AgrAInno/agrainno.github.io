@@ -6,34 +6,34 @@
     <description>Recent content in Categories on AgrAInno | Agricultural AI Innovation</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Nov 2024 10:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 11:07:10 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>http://localhost:1313/categories/artificial-intelligence/</link>
-      <pubDate>Wed, 06 Nov 2024 10:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technical Assistance</title>
-      <link>http://localhost:1313/categories/technical-assistance/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/technical-assistance/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Company News</title>
       <link>http://localhost:1313/categories/company-news/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <pubDate>Tue, 11 Nov 2025 11:07:10 +0600</pubDate>
       <guid>http://localhost:1313/categories/company-news/</guid>
       <description></description>
     </item>
     <item>
-      <title>Legacy Support</title>
-      <link>http://localhost:1313/categories/legacy-support/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/categories/legacy-support/</guid>
+      <title>Sensor</title>
+      <link>http://localhost:1313/categories/sensor/</link>
+      <pubDate>Tue, 11 Nov 2025 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/categories/sensor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/categories/artificial-intelligence/</link>
+      <pubDate>Mon, 06 Oct 2025 10:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/categories/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Innovation</title>
+      <link>http://localhost:1313/categories/innovation/</link>
+      <pubDate>Wed, 06 Nov 2024 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/categories/innovation/</guid>
       <description></description>
     </item>
   </channel>

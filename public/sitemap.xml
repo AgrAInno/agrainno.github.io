@@ -3,82 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-06T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/advice/</loc>
-    <lastmod>2024-11-06T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/artificial-intelligence/</loc>
-    <lastmod>2024-11-06T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-11-06T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-11-06T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/weed-detection-model/</loc>
-    <lastmod>2024-11-06T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-11-06T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/technology/</loc>
-    <lastmod>2024-11-06T10:00:00+01:00</lastmod>
+    <lastmod>2025-11-22T00:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/faq/</loc>
-    <lastmod>2021-04-01T00:00:00-04:00</lastmod>
+    <lastmod>2025-11-22T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/how-to/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/date-i18n/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/technical-assistance/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/android/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/company/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/company-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/blog-post-2/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/blog-post-3/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/blog-post-4/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/blog-post-5/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/blog-post-6/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/legacy-support/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mechine/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/retro/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+    <loc>http://localhost:1313/categories/sensor/</loc>
+    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/251111_sns-l-prototype-announcement/</loc>
+    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/technology/</loc>
+    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/251006_agriweed-ios-launch/</loc>
+    <lastmod>2025-10-06T10:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2025-10-06T10:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/app/</loc>
+    <lastmod>2025-10-06T10:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/artificial-intelligence/</loc>
+    <lastmod>2025-10-06T10:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/250905_sns-l-testing-begins/</loc>
+    <lastmod>2025-09-05T09:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/innovation/</loc>
+    <lastmod>2024-11-06T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/241106_weed-detection-model/</loc>
+    <lastmod>2024-11-06T10:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/company/</loc>
+    <lastmod>2024-05-01T10:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240501_meet-the-team/</loc>
+    <lastmod>2024-05-01T10:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/agrainno-name/</loc>
+    <lastmod>2024-01-15T10:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/240115_vision-mission-values/</loc>
+    <lastmod>2024-01-15T10:00:00+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/message_sent/</loc>
   </url><url>

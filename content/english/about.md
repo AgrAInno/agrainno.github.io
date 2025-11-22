@@ -98,13 +98,19 @@ mission_vision:
 
   - name : "Founding Team"
     content: |
-      Kang Yu - CEO & Founder 
+      
+      Dr. Kang Yu - CSO & Founder
 
+      Dr. Fei Li - CTO & Co-Founder
+      
       Chenghao Lu - COO & Co-Founder
-
-      Yihao Wang - CTO
-
-      Finn Kott - CMO
+      
+      Qingyu Jin - Sensor development
+      
+      Dong Bai - Remote sensing
+      
+      Jingcheng Zhang - ICT
+      
 
 
 

@@ -14,7 +14,7 @@ information:
   - label : "Type"
     info : "Multispectral"
   - label : "Release"
-    info : "17th March 2014"
+    info : "5th Sept 2025"
   - label : "Specs"
     info : "5 Bands"
   - label : "Version"

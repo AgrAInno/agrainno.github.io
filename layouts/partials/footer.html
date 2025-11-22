@@ -1,0 +1,16 @@
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-menu">
+          <ul>
+            {{ range site.Menus.footer }}
+            <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        <p class="copyright">© {{ now.Format "2006" }} AgrAInno. All rights reserved. Built with Hugo and the Airspace theme by Themefisher.</p>
+      </div>
+    </div>
+  </div>
+</footer>

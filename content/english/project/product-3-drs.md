@@ -14,7 +14,7 @@ information:
   - label : "Tools Used"
     info : "RGB, Multispectral"
   - label : "Available on"
-    info : "17th March 2014"
+    info : "6th Nov 2024"
   - label : "Specs"
     info : "DJI P4, P4MS"
   - label : "Client"

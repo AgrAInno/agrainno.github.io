@@ -10,7 +10,7 @@ about:
   enable : true
   title : "Agricultural AI and Sensing Technologies"
   content : "We are pioneering the integration of drones, AI, and sensor-based analytics to transform agriculture. Our services span weed detection, crop monitoring, and yield prediction using state-of-the-art technologies such as non-destructive sensing, UAV imaging, super-resolution, and deep learning segmentation. By combining precision and innovation, we aim to improve productivity while supporting sustainability."
-  image : "images/company/company-group-pic.jpg"
+  image : "images/company/group-avatar-image.jpg"
 
 
 ########################## featured service ############################
@@ -79,3 +79,5 @@ cta:
   enable : true
   # call to action content comes from "_index.md"
 ---
+
+![image](images/company/group-avatar-image.jpg)

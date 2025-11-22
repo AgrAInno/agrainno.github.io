@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://localhost/"
+baseURL = "https://agrainno.netlify.app/"
 title = "AgrAInno | Agricultural AI Innovation"
 theme = "airspace-hugo"
 

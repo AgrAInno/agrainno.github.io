@@ -1,9 +1,0 @@
-[submodule "themes/airspace"]
-	path = themes/airspace
-	url = https://github.com/themefisher/airspace-hugo.git
-[submodule "themes/airspace-hugo"]
-	path = themes/airspace-hugo
-	url = https://github.com/themefisher/airspace-hugo.git
-[submodule "themes/product-launch"]
-	path = themes/product-launch
-	url = https://github.com/janraasch/hugo-product-launch.git

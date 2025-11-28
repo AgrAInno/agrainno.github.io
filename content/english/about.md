@@ -109,7 +109,7 @@ mission_vision:
       
       Dong Bai - Remote sensing
       
-      Jingcheng Zhang - ICT
+      Jingcheng Zhang - Plant physiology
       
 
 

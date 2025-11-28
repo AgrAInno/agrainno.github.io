@@ -3,6 +3,7 @@
     "tags": [
       "a",
       "aside",
+      "base",
       "body",
       "br",
       "button",
@@ -262,7 +263,6 @@
       "applications",
       "approach",
       "benefits",
-      "captchaResponse",
       "email",
       "features",
       "founding-team",

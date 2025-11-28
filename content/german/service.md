@@ -1,6 +1,6 @@
 ---
-title: "Dienstleistungen"
-description: "this is meta description"
+title: "Leistungen"
+description: "Landwirtschaftliche KI-Innovation"
 bg_image: "images/feature-bg.jpg"
 layout: "service"
 draft: false
@@ -8,90 +8,61 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
-  title : "Creative UX/UI Design Agency"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
-          cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
-          officia nihil. Eum quod iure nulla, soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit
-          maiores sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis doloribus natus nemo
-          id quod illum aut culpa perspiciatis consequuntur tempore? Facilis nam vitae iure quisquam eius harum
-          consequatur sapiente assumenda, officia voluptas quas numquam placeat, alias molestias nisi laudantium
-          nesciunt perspiciatis suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga dolore
-          officia adipisci neque!"
-  image : "images/company/company-group-pic.jpg"
-
+  title : "Landwirtschaftliche KI und Sensortechnologien"
+  content : "Wir sind Pioniere bei der Integration von Drohnen, KI und sensorbasierter Analytik zur Transformation der Landwirtschaft. Unsere Dienstleistungen umfassen Unkrauterkennung, Pflanzenüberwachung und Ertragsvorhersage unter Verwendung modernster Technologien wie zerstörungsfreie Sensorik, UAV-Bildgebung, Super-Resolution und Deep-Learning-Segmentierung. Durch die Kombination von Präzision und Innovation streben wir danach, die Produktivität zu verbessern und gleichzeitig Nachhaltigkeit zu unterstützen."
+  image : "images/company/group-avatar-image.jpg"
 
 ########################## featured service ############################
 featured_service:
   enable : true
   service_item:
-    # featured service item loop
-    - name : "Interface Design"
-      icon : "fas fa-flask"
+    - name : "Inno Handheld"
+      icon : "fas fa-hand-holding"
       color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
-
-    # featured service item loop
-    - name : "Product Branding"
-      icon : "fas fa-leaf"
+      content : "Tragbare Sensorgeräte für schnelle, zerstörungsfreie Blattstickstoffbewertung und Pflanzengesundheitsdiagnostik im Feld."
+    - name : "Drohnen-Kartierung"
+      icon : "fas fa-helicopter"
       color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
-
-    # featured service item loop
-    - name : "Game Development"
-      icon : "fas fa-lightbulb"
+      content : "Hochauflösende Luftbildkartierung mit Drohnen für Pflanzenüberwachung, Unkrauterkennung und Präzisionslandwirtschaftsanwendungen."
+    - name : "Satelliten-Applikationskarten"
+      icon : "fas fa-satellite"
       color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
-
+      content : "Satellitenbasierte teilflächenspezifische Applikationskarten für effiziente Düngemittel- und Betriebsmittelausbringung auf Feldern."
 
 ############################# Service ###############################
 service:
   enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  title : "Unsere Leistungen"
+  description : "Unsere Dienstleistungen kombinieren modernste KI-, UAV- und Satellitentechnologien, um Produktivität zu steigern, Betriebsmittel zu optimieren und nachhaltige Landwirtschaft zu unterstützen. Wir bieten End-to-End-Lösungen von Feldsensorik bis zu cloudbasierten Entscheidungsunterstützungssystemen."
   service_item:
-    # service item loop
-    - icon : ion-coffee #https://fontawesome.com/v5.15/icons
-      name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-compass #https://fontawesome.com/v5.15/icons
-      name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-image #https://fontawesome.com/v5.15/icons
-      name: App Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-bug #https://fontawesome.com/v5.15/icons
-      name: Start Up
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-headphone #https://fontawesome.com/v5.15/icons
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : fas fa-leaf #https://fontawesome.com/v5.15/icons
-      name: Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-planet #https://fontawesome.com/v5.15/icons
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-earth #https://fontawesome.com/v5.15/icons
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : fas fa-seedling
+      name: Unkrauterkennung
+      content: "UAV- und Bildgebungssysteme zur Identifizierung und Kartierung von Unkräutern für präzise Herbizidanwendung und Ertragsschutz."
+    - icon : fas fa-vial
+      name: Intelligente Ernährung
+      content: "Sensorbasierte Bewertung und KI-Modelle zur Optimierung der Stickstoffzufuhr basierend auf Echtzeit-Pflanzen- und Bodendaten."
+    - icon : fas fa-chart-line
+      name: Ertragsvorhersage
+      content: "Machine-Learning-Modelle, die Fernerkundung und Wetterdaten integrieren, um Ernteerträge vorherzusagen."
+    - icon : fas fa-helicopter
+      name: Drohnen-Kartierung
+      content: "Hochauflösende Drohnenbildgebung und 3D-Feldrekonstruktion für Pflanzengesundheitsüberwachung und gezielte Interventionen."
+    - icon : fas fa-cloud
+      name: Cloud-Landwirtschaft
+      content: "Cloudbasierte Plattformen für Datenintegration, Fernentscheidungen und Betriebsmanagementoptimierung."
+    - icon : fas fa-project-diagram
+      name: KI-Systemintegration
+      content: "Maßgeschneiderte KI-Pipelines und Softwareintegration zur Unterstützung von Echtzeitanalyse und Automatisierung in der digitalen Landwirtschaft."
+    - icon : fas fa-mountain
+      name: Bodenkartierung
+      content: "Geospatiale und sensorbasierte Analyse von Bodeneigenschaften zur Unterstützung standortspezifischer Nährstoff- und Pflanzenbewirtschaftung."
+    - icon : fas fa-globe
+      name: Satellitenlandwirtschaft
+      content: "Nutzung von Satellitendaten für feldweite Überwachung, Pflanzenwachstumsbewertung und strategische Betriebsplanung."
 
 ############################# call to action #################################
 cta:
   enable : true
-  # call to action content comes from "_index.md"
 ---
+
+![image](images/company/group-avatar-image.jpg)

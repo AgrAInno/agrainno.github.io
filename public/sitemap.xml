@@ -1,98 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:52933/</loc>
-    <lastmod>2025-11-22T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/faq/</loc>
-    <lastmod>2025-11-22T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/categories/</loc>
-    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/categories/company-news/</loc>
-    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/blog/</loc>
-    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/tags/news/</loc>
-    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/categories/sensor/</loc>
-    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/blog/251111_sns-l-prototype-announcement/</loc>
-    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/tags/</loc>
-    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/tags/technology/</loc>
-    <lastmod>2025-11-11T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/blog/251006_agriweed-ios-launch/</loc>
-    <lastmod>2025-10-06T10:00:00+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/tags/ai/</loc>
-    <lastmod>2025-10-06T10:00:00+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/tags/app/</loc>
-    <lastmod>2025-10-06T10:00:00+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/categories/artificial-intelligence/</loc>
-    <lastmod>2025-10-06T10:00:00+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/blog/250905_sns-l-testing-begins/</loc>
-    <lastmod>2025-09-05T09:00:00+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/categories/innovation/</loc>
-    <lastmod>2024-11-06T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/blog/241106_weed-detection-model/</loc>
-    <lastmod>2024-11-06T10:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/tags/company/</loc>
-    <lastmod>2024-05-01T10:00:00+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/blog/240501_meet-the-team/</loc>
-    <lastmod>2024-05-01T10:00:00+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/tags/agrainno-name/</loc>
-    <lastmod>2024-01-15T10:00:00+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/blog/240115_vision-mission-values/</loc>
-    <lastmod>2024-01-15T10:00:00+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52933/message_sent/</loc>
-  </url><url>
-    <loc>http://localhost:52933/about/</loc>
-  </url><url>
-    <loc>http://localhost:52933/author/</loc>
-  </url><url>
-    <loc>http://localhost:52933/contact/</loc>
-  </url><url>
-    <loc>http://localhost:52933/project/product-1-hand/</loc>
-  </url><url>
-    <loc>http://localhost:52933/project/product-2-hand/</loc>
-  </url><url>
-    <loc>http://localhost:52933/author/john-doe/</loc>
-  </url><url>
-    <loc>http://localhost:52933/author/mark-dinn/</loc>
-  </url><url>
-    <loc>http://localhost:52933/pricing/</loc>
-  </url><url>
-    <loc>http://localhost:52933/project/</loc>
-  </url><url>
-    <loc>http://localhost:52933/project/product-5-srs/</loc>
-  </url><url>
-    <loc>http://localhost:52933/service/</loc>
-  </url><url>
-    <loc>http://localhost:52933/project/product-6-srs/</loc>
-  </url><url>
-    <loc>http://localhost:52933/project/product-4-drs/</loc>
-  </url><url>
-    <loc>http://localhost:52933/project/product-3-drs/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    
+      <lastmod>2025-11-22T00:00:00-05:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/de/sitemap.xml</loc>
+    
+      <lastmod>2025-11-22T00:00:00-05:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://localhost:1313/zh/sitemap.xml</loc>
+    
+      <lastmod>2025-11-22T00:00:00-05:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

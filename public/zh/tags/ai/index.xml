@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on AgrAInno | Agricultural AI Innovation</title>
+    <link>http://localhost:1313/zh/tags/ai/</link>
+    <description>Recent content in AI on AgrAInno | Agricultural AI Innovation</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 06 Oct 2025 10:00:00 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AgriWeed App Now Available on iOS</title>
+      <link>http://localhost:1313/zh/blog/251006_agriweed-ios-launch/</link>
+      <pubDate>Mon, 06 Oct 2025 10:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/zh/blog/251006_agriweed-ios-launch/</guid>
+      <description>&lt;p&gt;🌿 &lt;strong&gt;AgriWeed App Now Available on iOS!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We are excited to announce that &lt;strong&gt;AgriWeed&lt;/strong&gt;, our AI-powered smartphone app for fast and accurate weed identification, is now officially available on the Apple iOS Store.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,62 +1,75 @@
 ---
-title: "Häufige Fragen"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-lastmod: 2021-04-01T00:00:00
+title: "Häufig gestellte Fragen"
+description: "Landwirtschaftliche KI-Innovation"
+subtitle : "Innovation der Landwirtschaft mit KI und Sensortechnologien."
+lastmod: 2025-11-22T00:00:00
 bg_image: "images/feature-bg.jpg"
 layout: "faq"
 draft: false
 ---
 
-### Welcome to Airspace!
+### Willkommen bei AgrAInno!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+Wir widmen uns der Transformation der Landwirtschaft durch fortschrittliche KI und Sensortechnologien. Unten finden Sie Antworten auf häufig gestellte Fragen zu unseren Produkten und Dienstleistungen. Wenn Sie weitere Informationen benötigen, kontaktieren Sie uns gerne unter info@agrainno.com.
 
-#### 1.Overview
+#### 1. Was ist AgrAInno?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+AgrAInno ist ein forschungsbasiertes Agrartech-Startup, das sich auf die Entwicklung intelligenter Sensoren, KI-gestützter Modelle und mobiler Anwendungen für die Präzisionslandwirtschaft konzentriert. Unser Team aus Agronomen, Ingenieuren und Datenwissenschaftlern hat proprietäre Technologien entwickelt, um nachhaltiges Pflanzennährstoffmanagement durch Echtzeit-datengestützte Erkenntnisse zu unterstützen.
 
-#### 2. Data We Collect
+#### 2. Welche Produkte bietet AgrAInno an?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+Wir bieten derzeit an:
+- **SNS-L Smart Nutrient Sensor**: Ein Prototyp-Sensor, der Stickstoff- und Chlorophyllkonzentrationen in Echtzeit mit unserem optimierten NPDI-Index misst
+- **AgriWeed App**: Eine KI-gestützte Smartphone-App für schnelle und präzise Unkrauterkennung, verfügbar für iOS
+- **Satellitenbasierte Kartierungsdienste**: Cloudbasierte Stickstoff- und Chlorophyllkonzentrationskartierung (Premium- und Advance-Pakete)
+- **Multi-Nährstoffvorhersage** (in Entwicklung): Erweiterte Nährstoffanalysefunktionen für umfassende Pflanzenüberwachung
 
-#### 3. How We Use Data
+#### 3. Wie funktioniert der SNS-L Sensor?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+Der SNS-L Sensor verwendet fortschrittliche Multispektraltechnologie mit einem maßgeschneiderten kompakten optoelektronischen Filtersystem. Er misst Pflanzennährstoffwerte mithilfe unseres optimierten NPDI (N Planar Domain Index), der die Sättigungsprobleme des traditionellen NDVI überwindet. Der Sensor liefert Echtzeit-NPDI-Berechnungen mit drahtloser Datenübertragung und kann nahtlos in automatisierte Bewässerungs- und Düngungssysteme integriert werden.
 
-#### 4. How We Disclose Data.
+#### 4. Was sind Ihre Preispakete?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
+Wir bieten drei Pakete an:
+- **Basic (€1.999)**: SNS-L Sensor zur Messung von Stickstoff und Chlorophyll, plus Smartphone-App
+- **Premium (€2.499)**: Alles aus Basic plus jährliche cloudbasierte Satellitenkartierungslizenz
+- **Advance (€2.999)**: Alles aus Basic und Premium plus jährliche Multi-Nährstoffvorhersage-Lizenz (in Entwicklung)
 
-#### 5. Security
+#### 5. Ist der SNS-L Sensor bereit für den kommerziellen Einsatz?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
+Der SNS-L Prototyp hat die Entwicklung erfolgreich abgeschlossen und befindet sich derzeit in der Feldtestphase. Erste Validierungen zeigen vielversprechende Leistung. Der Sensor tritt in die nächste Phase der Miniaturisierung, Robustheitstests und Piloteinsätze mit unseren Partnerinstitutionen ein.
 
-#### 6. Advertising.
+#### 6. Wo kann ich die AgriWeed App herunterladen?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
+Die AgriWeed App ist im Apple iOS Store verfügbar. Sie können sie hier herunterladen: https://apps.apple.com/de/app/agriweed/id6752901076?l=en-GB
+
+#### 7. Wer steht hinter AgrAInno?
+
+AgrAInno wird von einem Team aus TUM (Technische Universität München) Studenten, Forschern und Alumni betrieben. Unser Gründungsteam umfasst:
+- **Chenghao Lu** - COO & Mitgründer
+- **Qingyu Jin** - Sensorentwicklung
+- **Dong Bai** - Fernerkundungsexperte
+- **Jingcheng Zhang** - Pflanzenphysiologie und IKT
+- **Fei Li** - CTO & Mitgründer
+- **Kang Yu** - CSO & Gründer
+
+Ehemalige Mitglieder und Mitarbeiter:
+Yihao Wang, Finn Kott
+
+Wir kombinieren landwirtschaftliches Fachwissen, fortschrittliches KI-Engineering, Fernerkundungsexpertise und digitale Tool-Entwicklung, um bedeutungsvolle landwirtschaftliche Lösungen zu schaffen.
+
+#### 8. Was ist die Mission von AgrAInno?
+
+Unsere Mission ist es, Sensoren, KI-Modelle und mobile Tools der nächsten Generation bereitzustellen, die Felddaten in Echtzeit umsetzbare Erkenntnisse verwandeln und eine Zukunft unterstützen, in der Landwirtschaft intelligent, nachhaltig und ressourceneffizient ist.
+
+#### 9. Wie kann ich mit AgrAInno zusammenarbeiten?
+
+Wir bauen aktiv Partnerschaften mit Förderern, Industriepartnern und Forschungseinrichtungen auf. Wenn Sie an einer Zusammenarbeit oder Unterstützung unserer Mission interessiert sind, kontaktieren Sie uns bitte unter info@agrainno.com.
+
+#### 10. Wo befindet sich AgrAInno?
+
+Wir haben unseren Sitz in Freising, Deutschland:
+AgrAInno  
+Dürnast 7  
+D-85354, Freising  
+Deutschland

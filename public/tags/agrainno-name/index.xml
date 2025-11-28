@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AgrAInno Name on AgrAInno | Agricultural AI Innovation</title>
-    <link>http://localhost:52933/tags/agrainno-name/</link>
+    <link>http://localhost:1313/tags/agrainno-name/</link>
     <description>Recent content in AgrAInno Name on AgrAInno | Agricultural AI Innovation</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 15 Jan 2024 10:00:00 +0600</lastBuildDate>
-    <atom:link href="http://localhost:52933/tags/agrainno-name/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/agrainno-name/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AgrAInno: Agriculture, AI, Innovation</title>
-      <link>http://localhost:52933/blog/240115_vision-mission-values/</link>
+      <link>http://localhost:1313/blog/240115_vision-mission-values/</link>
       <pubDate>Mon, 15 Jan 2024 10:00:00 +0600</pubDate>
-      <guid>http://localhost:52933/blog/240115_vision-mission-values/</guid>
+      <guid>http://localhost:1313/blog/240115_vision-mission-values/</guid>
       <description>&lt;h2 id=&#34;vision&#34;&gt;Vision&lt;/h2&gt;&#xA;&lt;p&gt;A future where agriculture is intelligent, sustainable, and resource-efficient through AI and sensing technologies.&lt;/p&gt;</description>
     </item>
   </channel>

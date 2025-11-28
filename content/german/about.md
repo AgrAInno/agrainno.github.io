@@ -1,139 +1,93 @@
 ---
-title: "Über uns"
-description: "this is meta description"
+title: "Über unser Unternehmen"
+description: "Landwirtschaftliche KI-Innovation"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
-
 
 ################################## About #####################################
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-
-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
-
+  title : "Innovation der Landwirtschaft mit KI und Sensortechnologien"
+  content : "Bei AgrAInno widmen wir uns der Transformation der Landwirtschaft durch intelligente Technologien. Unsere Mission ist es, KI, drohnenbasierte Bildgebung und Sensorsysteme zu integrieren, um Produktivität zu steigern, Umweltauswirkungen zu reduzieren und datengestützte Entscheidungsfindung zu ermöglichen. Wir arbeiten an der Schnittstelle von Pflanzenwissenschaft, Agronomie und Technologie, um praktische Lösungen für Unkrauterkennung, Nährstoffmanagement, Ertragsvorhersage und digitale Landwirtschaft zu entwickeln."
   button:
     enable : true
-    label : "Download Company Profile"
+    label : "Unternehmensprofil herunterladen"
     link : "#"
-
   funfacts:
-  # funfacts loop
-  - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
-    name : "Completed Projects"
+  - icon : "fas fa-flask"
+    name : "Abgeschlossene Projekte"
     count : "349"
-
-  # funfacts loop
-  - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
-    name : "Lines Of Code"
+  - icon : "fas fa-fire-alt"
+    name : "Codezeilen"
     count : "35000"
-
-  # funfacts loop
-  - icon : "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
+  - icon : "fas fa-glasses"
+    name : "Zufriedene Kunden"
     count : "70"
-
-  # funfacts loop
-  - icon : "fas fa-trophy" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
+  - icon : "fas fa-trophy"
+    name : "Gewonnene Auszeichnungen"
     count : "10"
-
-  # funfacts loop
-  - icon : "fas fa-glass-cheers" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
+  - icon : "fas fa-glass-cheers"
+    name : "Zufriedene Kunden"
     count : "75"
-
-  # funfacts loop
-  - icon : "fas fa-certificate" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
+  - icon : "fas fa-certificate"
+    name : "Gewonnene Auszeichnungen"
     count : "20"
 
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Wir sind ein unabhängiges Forschungs- und Entwicklungs-Startup"
   feature_item:
-  # feature item loop
-  - icon : "fab fa-app-store-ios" #https://fontawesome.com/v5.15/icons
-    name : "IOS App Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "fas fa-unlock" #https://fontawesome.com/v5.15/icons
-    name : "App Secutity"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "fas fa-gamepad" #https://fontawesome.com/v5.15/icons
-    name : "Games Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "fas fa-microphone" #https://fontawesome.com/v5.15/icons
-    name : "Animation and Editing"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "fas fa-lightbulb" #https://fontawesome.com/v5.15/icons
-    name : "UI/UX Design"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-  # feature item loop
-  - icon : "fas fa-star-of-life" #https://fontawesome.com/v5.15/icons
-    name : "Branding"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
+    - icon : "fas fa-microchip"
+      name : "Sensorentwicklung"
+      content : "Entwicklung tragbarer und eingebetteter Sensorsysteme für Echtzeit-Pflanzen- und Bodenüberwachung im Feld."
+    - icon : "fas fa-headset"
+      name : "Technischer Support"
+      content : "Bereitstellung von Expertensupport und Wartung für Präzisionslandwirtschafts-Hardware, Software und Analyseplattformen."
+    - icon : "fas fa-mobile-alt"
+      name : "App-Entwicklung"
+      content : "Erstellung intuitiver mobiler und Web-Anwendungen für Landwirte, Agronomen und Forscher für den Zugang zu umsetzbaren Erkenntnissen."
+    - icon : "fas fa-network-wired"
+      name : "Systemintegration"
+      content : "Integration von UAVs, IoT-Sensoren, Cloud-Plattformen und KI-Pipelines in nahtlose, skalierbare Smart-Farming-Lösungen."
+    - icon : "fas fa-database"
+      name : "Datenservice"
+      content : "Bereitstellung hochwertiger landwirtschaftlicher Datenpipelines für Analyse, Visualisierung und Entscheidungsfindung auf digitalen Plattformen."
+    - icon : "fas fa-chalkboard-teacher"
+      name : "Schulung"
+      content : "Schulung der Nutzer zu Agrartech-Tools und Dateninterpretation durch praxisnahe Workshops und maßgeschneiderte digitale Trainingsprogramme."
 
 #################################### testimonial & mission vision #######################################
 testimonial:
   enable : true
-  # testimonial content comes from "data/*/homepage.yml" file
 
 mission_vision:
   enable : true
   tabs:
-  # tab item loop
   - name : "Vision"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
-
-  # tab item loop
+    content : "Die Transformation der Landwirtschaft durch intelligente Systeme anzuführen, die KI, Drohnen, Sensoren und Datenanalyse integrieren – für eine produktivere, widerstandsfähigere und nachhaltigere landwirtschaftliche Zukunft."
   - name : "Mission"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+    content : "Unsere Mission ist es, Landwirte und Agronomen mit modernsten Technologien zu befähigen, die Entscheidungsfindung verbessern, Ressourcennutzung optimieren und Umweltauswirkungen reduzieren. Wir schlagen eine Brücke zwischen Forschung und realen Anwendungen in der digitalen Landwirtschaft."
+  - name : "Ansatz"
+    content : "Wir kombinieren tiefes landwirtschaftliches Fachwissen mit fortschrittlicher KI-Modellierung, Fernerkundung und Cloud-Infrastruktur. Unser agiler, interdisziplinärer Ansatz gewährleistet skalierbare, benutzerfreundliche Lösungen, die auf die dynamischen Bedürfnisse der modernen Landwirtschaft zugeschnitten sind."
+  - name : "Gründungsteam"
+    content: |
+      
+      Dr. Kang Yu - CSO & Gründer
 
-  # tab item loop
-  - name : "Approach"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
-
+      Dr. Fei Li - CTO & Mitgründer
+      
+      Chenghao Lu - COO & Mitgründer
+      
+      Qingyu Jin - Sensorentwicklung
+      
+      Dong Bai - Fernerkundung
+      
+      Jingcheng Zhang - Pflanzenphysiologie
 
 ############################# call to action #################################
 cta:
   enable : true
-  # call to action content comes from "_index.md"
 ---

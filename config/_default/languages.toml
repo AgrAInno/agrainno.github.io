@@ -5,12 +5,21 @@ languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
 
+################ German language ##################
+[de]
+languageName = "Deutsch"
+languageCode = "de-DE"
+contentDir = "content/german"
+weight = 2
+disabled = false
+
+
 ################ French language ##################
 [fr]
 languageName = "Français"
 languageCode = "fr-FR"
 contentDir = "content/french"
-weight = 2
+weight = 3
 disabled = true
 
 ################ Italian language #################
@@ -18,13 +27,13 @@ disabled = true
 languageName = "Italiano"
 languageCode = "it-IT"
 contentDir = "content/italian"
-weight = 3
-disabled = true
-
-################ German language ##################
-[de]
-languageName = "German"
-languageCode = "de-at"
-contentDir = "content/german"
 weight = 4
 disabled = true
+
+################ Chinese language #################
+[zh]
+languageName = "中文"
+languageCode = "zh-CN"
+contentDir = "content/chinese"
+weight = 5
+disabled = false

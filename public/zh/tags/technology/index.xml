@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on AgrAInno | Agricultural AI Innovation</title>
+    <link>http://localhost:1313/zh/tags/technology/</link>
+    <description>Recent content in Technology on AgrAInno | Agricultural AI Innovation</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 11 Nov 2025 11:07:10 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smart Nutrient Sensor Prototype (SNS-L) Successfully Developed</title>
+      <link>http://localhost:1313/zh/blog/251111_sns-l-prototype-announcement/</link>
+      <pubDate>Tue, 11 Nov 2025 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/zh/blog/251111_sns-l-prototype-announcement/</guid>
+      <description>&lt;p&gt;🌱 &lt;strong&gt;Smart Nutrient Sensor Prototype (SNS-L) Successfully Developed&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We are excited to announce the completion of AgrAInno&amp;rsquo;s first Smart Nutrient Sensor prototype, &lt;strong&gt;SNS-L&lt;/strong&gt;, a major step toward real-time, AI-powered nutrient monitoring for precision agriculture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AgriWeed App Now Available on iOS</title>
+      <link>http://localhost:1313/zh/blog/251006_agriweed-ios-launch/</link>
+      <pubDate>Mon, 06 Oct 2025 10:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/zh/blog/251006_agriweed-ios-launch/</guid>
+      <description>&lt;p&gt;🌿 &lt;strong&gt;AgriWeed App Now Available on iOS!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We are excited to announce that &lt;strong&gt;AgriWeed&lt;/strong&gt;, our AI-powered smartphone app for fast and accurate weed identification, is now officially available on the Apple iOS Store.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SNS-L Prototype Enters Field Testing Phase</title>
+      <link>http://localhost:1313/zh/blog/250905_sns-l-testing-begins/</link>
+      <pubDate>Fri, 05 Sep 2025 09:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/zh/blog/250905_sns-l-testing-begins/</guid>
+      <description>&lt;p&gt;🔬 &lt;strong&gt;SNS-L Prototype Enters Field Testing Phase&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We are pleased to announce that our first &lt;strong&gt;Smart Nutrient Sensor (SNS-L)&lt;/strong&gt; prototype has officially entered the field testing phase.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Advanced Weed Detection Model</title>
+      <link>http://localhost:1313/zh/blog/241106_weed-detection-model/</link>
+      <pubDate>Wed, 06 Nov 2024 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/zh/blog/241106_weed-detection-model/</guid>
+      <description>&lt;p&gt;Weeds significantly impact agricultural production, and traditional weed control methods often harm soil health and the environment. This study aims to develop deep learning-based segmentation models to identify weeds in potato fields captured by Unmanned Aerial Vehicle (UAV) orthophotos and to explore the effects of weeds on potato yield.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 ---
-title: "Schicken Sie uns eine Nachricht"
-description: "this is meta description"
+title: "Schreiben Sie uns"
+description: "Landwirtschaftliche KI-Innovation"
 bg_image: "images/feature-bg.jpg"
 layout: "contact"
 draft: false
